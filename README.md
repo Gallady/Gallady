@@ -2,7 +2,6 @@
 Estou empolgado em combinar minha experiência em suporte técnico e conhecimento em design para criar soluções inovadoras e, ao mesmo tempo, expandir minha proficiência em desenvolvimento front-end. Minha formação em Design Gráfico na UTFPR estabeleceu uma base sólida em tecnologia e design, e estou direcionando minha carreira para novos desafios em desenvolvimento, incluindo Design Gráfico, UX/UI e Web Design.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/vinicius_moura2006)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vinicius_moura2006@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vinimoura/)
 
