@@ -1,5 +1,19 @@
-# 🦩Vinícius Moura
-Estou empolgado em combinar minha experiência em suporte técnico e conhecimento em design para criar soluções inovadoras e, ao mesmo tempo, expandir minha proficiência em desenvolvimento front-end. Minha formação em Design Gráfico na UTFPR estabeleceu uma base sólida em tecnologia e design, e estou direcionando minha carreira para novos desafios em desenvolvimento, incluindo Design Gráfico, UX/UI e Web Design.
+# Vinícius Moura
+Web Designer & Desenvolvedor Front-End Formado em Design Gráfico pela UTFPR, uno o olhar criativo do design com a lógica do desenvolvimento para criar interfaces funcionais e focadas na experiência do usuário.
+
+🚀 Sobre mim
+Background: Venho de uma trajetória sólida em suporte técnico (Dell) e Fintechs, o que me deu uma visão privilegiada sobre usabilidade e resolução de problemas reais.
+
+Foco Atual: Construir aplicações modernas, com código limpo e layouts intuitivos.
+
+Diferencial: Experiência em traduzir necessidades complexas de negócio em soluções visuais simples.
+
+🛠️ Tecnologias e Ferramentas
+Frontend: HTML5, CSS3, JavaScript (ES6+), React.
+
+Design: Figma, Photoshop, Illustrator (UI/UX e Identidade Visual).
+
+Outros: Git/GitHub, Documentação de Processos, Onboarding de Clientes.
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:vinicius_moura2006@hotmail.com)
